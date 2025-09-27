@@ -7,7 +7,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class UserRegistrationDetails {
 
-    private String API_KEY = "AIzaSyB6zzzDXGlvKrPmXwIFXwmANuveQTH1OsM";
+    private String API_KEY = "API_KEY";
     private String PROJECT_ID = "coupon-ff257";
     private String DOC_ID = "user00";
 
