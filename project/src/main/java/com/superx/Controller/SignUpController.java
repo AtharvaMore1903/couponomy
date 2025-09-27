@@ -16,7 +16,7 @@ import com.superx.Dao.UserRegistrationDetails;
 
 public class SignUpController {
 
-    private String API_KEY = "AIzaSyB6zzzDXGlvKrPmXwIFXwmANuveQTH1OsM";
+    private String API_KEY = "API_KEY";
 
     public String registerNewUser(String name, String phone, String email, String password, String dob, String gender) {
         String signUpLink = "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=" + API_KEY;
