@@ -14,7 +14,7 @@ import com.superx.Model.UserDetails;
 import com.superx.Model.UserSession;
 
 public class LoginController {
-    private String API_KEY = "AIzaSyB6zzzDXGlvKrPmXwIFXwmANuveQTH1OsM";
+    private String API_KEY = "API_KEY";
 
     public String userLogin(String email, String password) {
 
