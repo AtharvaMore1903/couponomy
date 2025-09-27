@@ -8,7 +8,7 @@ import java.nio.file.Files;
 
 public class FirebaseImage {
 
-    private static final String BUCKET_NAME = "coupon-ff257.firebasestorage.app";
+    private static final String BUCKET_NAME = "Bucket_Key";
 
     public static String uploadImage(String localFilePath, String destinationPathInStorage) {
         try {
